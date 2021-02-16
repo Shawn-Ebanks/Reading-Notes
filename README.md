@@ -1,4 +1,6 @@
 # reading-notes
+## Shawn Ebanks
+
 This is where I log my notes
 
 Growth mindset to me is the ability to remain focus, learn from one's mistakes and never be too proud to ask for help. 
