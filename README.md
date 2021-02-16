@@ -8,7 +8,7 @@ This is where I log my notes
 ![alt text](image.jpg)
 
 ### First Assignment :
-_Explain “growth mindset” in your own words_
+### _Explain “growth mindset” in your own words_
 
 Growth mindset to me is the ability to remain focus, learn from one's mistakes and never be too proud to ask for help. 
 Also when you have acheieved your goal, the next step is **Forward** find ways to improve, like efficiency.
