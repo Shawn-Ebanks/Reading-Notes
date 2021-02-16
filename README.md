@@ -14,4 +14,5 @@ Three reminders of how to keep yourself in a growth mindset are:
 2. Never give up, "If there's a will, there's a way" unknown source - Something I always heard.
 3. "You don't know ,what you don't know"
 
+	[Class 01](https://shawn-ebanks.github.io/reading-notes/first-class)
 
