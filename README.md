@@ -10,3 +10,5 @@ Three reminders of how to keep yourself in a growth mindset are:
 1. "Failing to prepare,is same as preparing to fail" (A teacher in my 4th grade etched that into my brain)
 2. Never give up, "If there's a will, there's a way" unknown source - Something I always heard.
 3. "You don't know ,what you don't know"
+
+![alt text](image.jpg)
