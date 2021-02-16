@@ -1,4 +1,8 @@
 # Shawn Ebanks
+
+Check out my portfolio page. [Shawn Ebanks](https://github.com/Shawn-Ebanks)
+
+
 ![alt text](image.jpg)
 
 ## First Assignment :
