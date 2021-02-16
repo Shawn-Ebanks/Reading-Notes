@@ -1,6 +1,6 @@
 Markdown is a way to style text on the web, for example :
 
-To make words appear bold on a web site you type "**" front and back of the text. 
+To make words appear bold on a web site you type ** front and back of the text. 
 **Example 01** 
 
 The Web browser will recognise the markdown and bolds the text and format any other markdown properties created.
@@ -17,5 +17,5 @@ Unordered list are similar; just add the * at the start of the text.
 * Example 2
 * Example 3
 
-Here is an example of a link [](url)see below for result.
+Here is an example of a link "[](url)" see below for result.
 * [Shawn's GitHub Profile](https://github.com/Shawn-Ebanks)
