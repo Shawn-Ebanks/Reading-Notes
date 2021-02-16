@@ -1,5 +1,3 @@
-# Reading-Notes
-
 
 This is where I log my notes
 
