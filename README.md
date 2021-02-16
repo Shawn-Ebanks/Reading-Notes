@@ -1,5 +1,8 @@
 # reading-notes
 ## Shawn Ebanks
+![alt text](image.jpg)
+
+### Code Fellows Notes
 
 This is where I log my notes
 
@@ -11,4 +14,4 @@ Three reminders of how to keep yourself in a growth mindset are:
 2. Never give up, "If there's a will, there's a way" unknown source - Something I always heard.
 3. "You don't know ,what you don't know"
 
-![alt text](image.jpg)
+
