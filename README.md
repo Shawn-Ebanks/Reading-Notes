@@ -14,5 +14,5 @@ Three reminders of how to keep yourself in a growth mindset are:
 
 Below in a link to other notes of class 01
 
-[Class 01](./first-class)
+[Class 01](https://shawn-ebanks.github.io/Reading-Notes/first-class)
 
