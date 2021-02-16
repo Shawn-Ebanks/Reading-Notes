@@ -1,11 +1,7 @@
-
-This is where I log my notes
-
-
-## Shawn Ebanks
+# Shawn Ebanks
 ![alt text](image.jpg)
 
-### First Assignment :
+## First Assignment :
  _Explain “growth mindset” in your own words_
 
 Growth mindset to me is the ability to remain focus, learn from one's mistakes and never be too proud to ask for help. 
@@ -18,5 +14,5 @@ Three reminders of how to keep yourself in a growth mindset are:
 
 Below in a link to other notes of class 01
 
-[Class 01](https://shawn-ebanks.github.io/reading-notes/./first-class)
+[Class 01](https://shawn-ebanks.github.io/reading-notes/first-class)
 
