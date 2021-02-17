@@ -42,7 +42,7 @@ First off, everything is a file in someway or another.
 
 File extensions indicate file type. Eg. File.png, or file.jpg indicate thees files are images.
 
-## Side note: 
+### Side note: 
 Commands are case sensitive 
 
 Avoid naming files with spaces where possible. 
@@ -53,6 +53,6 @@ To work around a file name with a space in it , use quotes or escape characters(
 
 Hidden file name begins with a dot in front of it. Example .file.txt
 
-## Side note: 
+### Side note: 
 
 ls -a (list contents of a directory inclusive of hidden files)
