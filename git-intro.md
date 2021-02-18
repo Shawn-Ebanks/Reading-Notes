@@ -2,17 +2,17 @@
 
 ## Intro to **Git**
 
- ### VCS - Version Control System
+## VCS - Version Control System
 
 VCS is a system that allows history tracking of files, that can be later reverted to and modified.
 
 There are three types of VCS:
 
 1. Local Version Control - Entails of database on your hard disk.
-2. *CVCS* (Centralized Version Control) - Database uses a server that enables multiple access to users.
-3. *DVCS* (Distributed Version Control) - Basically allows the user to mirror the repos on a backup source. 
+2. _CVCS_ (Centralized Version Control) - Database uses a server that enables multiple access to users.
+3. _DVCS_ (Distributed Version Control) - Basically allows the user to mirror the repos on a backup source.
 
-**Git** is a *DVCS*
+**Git** is a _DVCS_
 
 Using Git “commit” command takes a snapshot of the changes to the file and stores a reference to it.
 
@@ -20,19 +20,20 @@ Using Git “commit” command takes a snapshot of the changes to the file and s
 ‘Modified’ - File has been changed but not committed to the database
 ‘Staged’ - Flagged a file’s changed version to be committed in the next snapshot
 
-\*FunFact\* : We can thank Linus Torvalds, the chief architect of the Linux kernel for ‘Git’.
+\*FunFact\* : We can thank Linus Torvalds, the chief architect of the Linux kernel for ‘Git’ and 'GitHub'.
 
 # Testing Git on my MBP :
 
-shawnebanks@shawns-MBP ~ % git config --global user.name                 master
+shawnebanks@shawns-MBP ~ % git config --global user.name master
 Shawn Ebanks
-shawnebanks@shawns-MBP ~ % git config --global user.email                	master
+shawnebanks@shawns-MBP ~ % git config --global user.email master
 shawnebanks@rocketmail.com
 
 ## To check settings, use the git config --list command.
 
 ### My Result :
-shawnebanks@shawns-MBP ~ % git config --list                             master
+
+shawnebanks@shawns-MBP ~ % git config --list master
 credential.helper=osxkeychain
 filter.lfs.required=true
 filter.lfs.clean=git-lfs clean -- %f
@@ -48,7 +49,7 @@ core.logallrefupdates=true
 core.ignorecase=true
 core.precomposeunicode=true
 
-# Getting Help 
+# Getting Help
 
 There are three ways to get more information on a particular command, by accessing the manual:
 
@@ -67,12 +68,13 @@ git status
 
 ### Tracking and Staging a New File:
 
-Single File use  - 	git add filename
-All files use - 		git add *
+Single File use - git add filename
+All files use - git add \*
 
 ### Committing a File
-git commit -m “made change x,y,z”
 
+git commit -m “made change x,y,z”
+**Your message should be short and significant**
 
 ### Pushing Changes
 
@@ -89,13 +91,8 @@ Commit Mistakes
 You can use the –amend command when you need to alter a commit message or forgot to add some files.
 Use ‘git commit --amend’
 
-
 NOTE: When git reset --hard is used, Git overwrites all changes in the working directory, permanently destroying any uncommitted changes.
 
-
-All notes came from the below source 
+All notes came from the below source
 
 [Source credits](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
-
-:metal:
-
