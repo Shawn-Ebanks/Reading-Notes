@@ -4,9 +4,10 @@
 
 # Table of Contents:
 
-- [Class 01 Notes](https://shawn-ebanks.github.io/Reading-Notes/first-class)
-- [Class 02 Cheet Sheet assignment](https://shawn-ebanks.github.io/Reading-Notes/cheat-sheet)
-- [Class 03 Git Intro notes](https://shawn-ebanks.github.io/Reading-Notes/git-intro)
+- [Read: 01 - Learning Markdown notes](https://shawn-ebanks.github.io/Reading-Notes/first-class)
+- [Read: 02 - The Coder's Computer - Cheet Sheet assignment](https://shawn-ebanks.github.io/Reading-Notes/cheat-sheet)
+- [Read: 03 - Revisions and the Cloud notes](https://shawn-ebanks.github.io/Reading-Notes/git-intro)
+- [Read: 04 - Structure web pages with HTML notes](https://shawn-ebanks.github.io/Reading-Notes/read04)
 
 ## Growth Mindset
 
