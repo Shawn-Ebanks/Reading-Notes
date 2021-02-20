@@ -54,3 +54,5 @@ Hidden file name begins with a dot in front of it. Example .file.txt
 ### Side note:
 
 'ls -a' (list contents of a directory inclusive of hidden files)
+
+- [Return to main page](https://shawn-ebanks.github.io/Reading-Notes/)

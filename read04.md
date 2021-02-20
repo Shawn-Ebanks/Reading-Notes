@@ -98,3 +98,6 @@ Designing navigation must be concise , clear , selective, context, interactive a
 Utilize site maps and wireframes to your advantage when designing website.
 
 Keep in mind that you can differentiate between pieces of information using size, color, and style.
+
+
+- [Return to main page](https://shawn-ebanks.github.io/Reading-Notes/)

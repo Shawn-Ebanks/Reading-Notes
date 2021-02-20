@@ -96,3 +96,7 @@ NOTE: When git reset --hard is used, Git overwrites all changes in the workin
 All notes came from the below source
 
 [Source credits](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
+
+
+
+- [Return to main page](https://shawn-ebanks.github.io/Reading-Notes/)

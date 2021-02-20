@@ -8,6 +8,7 @@
 - [Read: 02 - The Coder's Computer - Cheet Sheet assignment](https://shawn-ebanks.github.io/Reading-Notes/cheat-sheet)
 - [Read: 03 - Revisions and the Cloud notes](https://shawn-ebanks.github.io/Reading-Notes/git-intro)
 - [Read: 04 - Structure web pages with HTML notes](https://shawn-ebanks.github.io/Reading-Notes/read04)
+- [Read: 05 - Design web pages with CSS notes](https://shawn-ebanks.github.io/Reading-Notes/read05)
 
 ## Growth Mindset
 
@@ -19,8 +20,8 @@ Also when you have acheieved your goal, the next step is **Forward** find ways t
 Three reminders of how to keep yourself in a growth mindset are:
 
 1. "Failing to prepare,is preparing to fail"
-1. Never give up, "If there's a will, there's a way"
+1. "Never give up", "If there's a will, there's a way"
 1. "You don't know ,what you don't know"
 
 Thank you for visiting my site!
-Check out my portfolio page. [Shawn Ebanks](https://github.com/Shawn-Ebanks)
+[Shawn Ebanks GitHub Home Profile](https://github.com/Shawn-Ebanks)
