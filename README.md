@@ -10,6 +10,7 @@
 - [Read: 04 - Structure web pages with HTML notes](https://shawn-ebanks.github.io/Reading-Notes/read04)
 - [Read: 05 - Design web pages with CSS notes](https://shawn-ebanks.github.io/Reading-Notes/read05)
 - [Read: 06a - Dynamic web pages with JavaScript notes](https://shawn-ebanks.github.io/Reading-Notes/read06a)
+- [Read: 06b - Computer Architecture and Logic notes](https://shawn-ebanks.github.io/Reading-Notes/read06b)
 
 ## Growth Mindset
 
@@ -26,5 +27,3 @@ Three reminders of how to keep yourself in a growth mindset are:
 
 Thank you for visiting my site!
 [Shawn Ebanks GitHub Home Profile](https://github.com/Shawn-Ebanks)
-
-
