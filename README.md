@@ -11,6 +11,7 @@
 - [Read: 05 - Design web pages with CSS notes](https://shawn-ebanks.github.io/Reading-Notes/read05)
 - [Read: 06a - Dynamic web pages with JavaScript notes](https://shawn-ebanks.github.io/Reading-Notes/read06a)
 - [Read: 06b - Computer Architecture and Logic notes](https://shawn-ebanks.github.io/Reading-Notes/read06b)
+- [Read: 07 - Programming with JavaScript notes](https://shawn-ebanks.github.io/Reading-Notes/read07)
 
 ## Growth Mindset
 
