@@ -12,6 +12,7 @@
 - [Read: 06a - Dynamic web pages with JavaScript notes](https://shawn-ebanks.github.io/Reading-Notes/read06a)
 - [Read: 06b - Computer Architecture and Logic notes](https://shawn-ebanks.github.io/Reading-Notes/read06b)
 - [Read: 07 - Programming with JavaScript notes](https://shawn-ebanks.github.io/Reading-Notes/read07)
+- [Read: 08 - Operators and Loops notes](https://shawn-ebanks.github.io/Reading-Notes/read08)
 
 ## Growth Mindset
 
